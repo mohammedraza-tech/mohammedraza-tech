@@ -2,9 +2,9 @@
 
 # Mohammed Raza
 
-**Founder @ ALYVN | Building AI Systems, Agents & Automation**
+**Founder @ ALYVN | AI/ML Engineer**
 
-Building intelligent systems that connect AI, data, tools, and real-world operations.
+Building AI systems, agents and automation for real-world operations.
 
 Bengaluru, India &nbsp; / &nbsp; Open to collaborations worldwide
 
@@ -16,32 +16,54 @@ Bengaluru, India &nbsp; / &nbsp; Open to collaborations worldwide
 
 ### About
 
-I'm Mohammed Raza, founder of ALYVN. My focus is applied AI: understanding the workflow, connecting the right models and tools, and engineering systems people can use with confidence.
+I'm Mohammed Raza, founder of **ALYVN**. I work across applied AI, agentic systems, LLM applications, retrieval and workflow automation — with a focus on turning useful prototypes into dependable operational systems.
 
-I'm interested in the full path from an idea to a dependable implementation, including retrieval, agent execution, API integration, evaluation, and human oversight.
+My work spans problem definition, system architecture, model and tool integration, retrieval pipelines, API orchestration, evaluation, human approval flows and product implementation.
+
+### Building now
+
+**AI Operations Agent** — an enterprise-style agentic system for coordinating multi-step operational workflows across business data, APIs and human approvals.
+
+Current focus:
+- tool-using AI agents and orchestration
+- structured task execution and routing
+- retrieval-augmented generation (RAG)
+- human-in-the-loop approval for consequential actions
+- observability, evaluation and failure handling
+
+### Selected systems
+
+| System | Purpose | Status |
+| --- | --- | --- |
+| **AI Operations Agent** | Multi-agent operational workflow execution | In development |
+| **Enterprise RAG System** | Internal knowledge retrieval and decision support | Planned |
+| **AI Lead Operations** | Research → qualification → CRM → outreach → follow-up | Planned |
 
 ### Technical focus
 
-| AI engineering | Implementation |
-| --- | --- |
-| Generative AI | Python |
-| Machine learning | n8n |
-| Large language models | API integration |
-| AI agents | Retrieval-augmented generation |
+**AI / ML**  
+AI Agents · Agentic Workflows · LLM Applications · RAG · Generative AI · Machine Learning · Prompt & Context Engineering
 
-### Engineering approach
+**Engineering**  
+Python · JavaScript / TypeScript · React · Next.js · REST APIs · Webhooks · Databases · n8n
 
-- Start with a concrete problem and a measurable definition of success.
-- Keep model reasoning, tool permissions, and execution boundaries explicit.
-- Make consequential actions reviewable by a human.
-- Test failure paths and document limitations alongside capabilities.
+**Systems**  
+Tool Calling · Structured Outputs · Retrieval Pipelines · API Integration · Workflow Orchestration · Human-in-the-loop Systems
 
-### Work & experiments
+### Engineering principles
 
-This profile will feature original implementations, engineering notes, and contributions as they become ready to share. Client work will appear only with permission. Planned systems will be identified as plans, and experiments will include their current limitations.
+- Start with a concrete operational problem and a measurable definition of success.
+- Give agents explicit tools, permissions and execution boundaries.
+- Keep high-impact actions reviewable by a human.
+- Design for failure paths, observability and maintainability from the beginning.
+- Document limitations alongside capabilities.
+
+### ALYVN
+
+**Applied AI. Autonomous Systems. Intelligent Automation.**
+
+ALYVN is my AI product and automation studio focused on building AI-native systems that connect models with business data, software and operational workflows.
 
 ---
 
-**ALYVN** | Applied AI. Autonomous systems. Intelligent automation.
-
-For engineering and collaboration conversations, [connect on LinkedIn](https://www.linkedin.com/in/mohammed-raza-alyvn/).
+For engineering, AI implementation and collaboration conversations, [connect with me on LinkedIn](https://www.linkedin.com/in/mohammed-raza-alyvn/).
