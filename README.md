@@ -123,23 +123,23 @@ A breakdown of what I actually build with, grouped by what each does:
 
 <br>
 
-## GitHub Activity
+## 🚀 Featured Projects
+
+**[Portfolio Website](https://github.com/mohammedraza-tech/portfolio)**
+A scroll-driven 3D portfolio site — built with Next.js, React Three Fiber (Three.js), and GSAP ScrollTrigger for scroll-synced 3D animation, with Lenis for smooth scrolling.
+
+**[Project Name](link-here)**
+One-line description of what it does, the problem it solves, and the stack used.
+
+**[Project Name](link-here)**
+One-line description of what it does, the problem it solves, and the stack used.
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
-  alt="Mohammed Raza's GitHub Stats"
-  height="165"
-/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=mohammedraza-tech&theme=dark&hide_border=true"
-  alt="Mohammed Raza's GitHub Streak"
-  height="165"
-/>
+<img src="https://streak-stats.demolab.com/?user=mohammedraza-tech&theme=dark&hide_border=true" alt="Mohammed Raza's GitHub Streak" height="165"/>
 
 </div>
+
 ## 🤝 Let's Work Together
 
 I'm currently open for freelance projects, and I usually reply within a day.
