@@ -127,7 +127,7 @@ A breakdown of what I actually build with, grouped by what each does:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=mohammedraza-tech&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
