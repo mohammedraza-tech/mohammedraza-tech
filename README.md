@@ -1,69 +1,65 @@
 <div align="center">
 
-# Mohammed Raza
+# Hi, I'm Mohammed Raza 👋
 
-**Founder @ ALYVN | AI/ML Engineer**
+### Full-Stack Developer & AI Automation Builder
 
-Building AI systems, agents and automation for real-world operations.
+I build fast, working software across the stack — from interfaces to automation —
+using AI as leverage, not a shortcut around quality.
 
-Bengaluru, India &nbsp; / &nbsp; Open to collaborations worldwide
-
-[LinkedIn](https://www.linkedin.com/in/mohammed-raza-alyvn/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
 ---
 
-### About
+### About Me
 
-I'm Mohammed Raza, founder of **ALYVN**. I work across applied AI, agentic systems, LLM applications, retrieval and workflow automation — with a focus on turning useful prototypes into dependable operational systems.
+I'm a full-stack developer who moves across the stack rather than staying narrow —
+frontend, backend, or automation, depending on what a project needs. I lean heavily
+on AI tools to build quickly without cutting corners on what actually ships.
 
-My work spans problem definition, system architecture, model and tool integration, retrieval pipelines, API orchestration, evaluation, human approval flows and product implementation.
-
-### Building now
-
-**AI Operations Agent** — an enterprise-style agentic system for coordinating multi-step operational workflows across business data, APIs and human approvals.
-
-Current focus:
-- tool-using AI agents and orchestration
-- structured task execution and routing
-- retrieval-augmented generation (RAG)
-- human-in-the-loop approval for consequential actions
-- observability, evaluation and failure handling
-
-### Selected systems
-
-| System | Purpose | Status |
-| --- | --- | --- |
-| **AI Operations Agent** | Multi-agent operational workflow execution | In development |
-| **Enterprise RAG System** | Internal knowledge retrieval and decision support | Planned |
-| **AI Lead Operations** | Research → qualification → CRM → outreach → follow-up | Planned |
-
-### Technical focus
-
-**AI / ML**  
-AI Agents · Agentic Workflows · LLM Applications · RAG · Generative AI · Machine Learning · Prompt & Context Engineering
-
-**Engineering**  
-Python · JavaScript / TypeScript · React · Next.js · REST APIs · Webhooks · Databases · n8n
-
-**Systems**  
-Tool Calling · Structured Outputs · Retrieval Pipelines · API Integration · Workflow Orchestration · Human-in-the-loop Systems
-
-### Engineering principles
-
-- Start with a concrete operational problem and a measurable definition of success.
-- Give agents explicit tools, permissions and execution boundaries.
-- Keep high-impact actions reviewable by a human.
-- Design for failure paths, observability and maintainability from the beginning.
-- Document limitations alongside capabilities.
-
-### ALYVN
-
-**Applied AI. Autonomous Systems. Intelligent Automation.**
-
-ALYVN is my AI product and automation studio focused on building AI-native systems that connect models with business data, software and operational workflows.
+Currently taking on freelance projects — early work gets full focus and a fair price.
 
 ---
 
-For engineering, AI implementation and collaboration conversations, [connect with me on LinkedIn](https://www.linkedin.com/in/mohammed-raza-alyvn/).
+### What I Build
+
+- 🌐 **Websites & MVPs** — landing pages, portfolios, first working product versions
+- 🛠️ **Internal tools & dashboards** — simple, purpose-built, no bloat
+- 🤖 **AI automation** — scripts, integrations, agent workflows that save real time
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Open for freelance work — usually replies within a day.*
+
+</div>
