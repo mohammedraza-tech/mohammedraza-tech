@@ -123,17 +123,23 @@ A breakdown of what I actually build with, grouped by what each does:
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=mohammedraza-tech&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=dark&hide_border=true&rank_icon=github"
+  alt="Mohammed Raza's GitHub Stats"
+  height="165"
+/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=mohammedraza-tech&theme=dark&hide_border=true"
+  alt="Mohammed Raza's GitHub Streak"
+  height="165"
+/>
 
 </div>
-
-<br>
-
 ## 🤝 Let's Work Together
 
 I'm currently open for freelance projects, and I usually reply within a day.
