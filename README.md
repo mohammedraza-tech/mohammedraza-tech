@@ -1,156 +1,136 @@
+<!-- ============================================================
+  GITHUB PROFILE README — MOHAMMED RAZA
+  HOW TO USE:
+  1. Create a PUBLIC repo named exactly like your GitHub username.
+  2. Tick "Add a README file", then paste this whole file in.
+  3. Replace every YOUR_USERNAME and every [bracketed] item.
+  4. Delete any section you can't back up with real work yet.
+============================================================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&size=32&pause=1000&color=2F6FED&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohammed+Raza;Full-Stack+Developer;AI+Automation+Builder" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=220&section=header&text=Mohammed%20Raza&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%7C%20AI-Powered%20Interfaces&descSize=20&descAlignY=60" alt="Mohammed Raza banner" />
 
-### I build fast, working software across the stack — using AI as leverage, not a shortcut.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Building+clean%2C+responsive+interfaces;React+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Turning+LLM+APIs+into+products+people+can+use;Self-taught.+Shipping+real+projects." alt="Typing animation" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<br/>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mohammedraza-tech&color=2F6FED&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563eb&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0f172a&logo=github)
+![Location](https://img.shields.io/badge/Based%20in-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Frontend%20Roles-2563eb?style=for-the-badge)
 
 </div>
-
-<br>
-
-## 🧭 About Me
-
-I'm a full-stack developer and AI automation builder. In plain terms: I can take
-a project from a rough idea to something people can actually click on and use —
-handling the frontend (what people see), the backend (how it actually works),
-and increasingly, the automation layer that removes repetitive manual work.
-
-I don't specialize narrowly in one framework or one layer of the stack. Instead,
-I go wherever a project needs me — which means I can usually take something from
-"idea" to "working" without needing to bring in three different specialists.
-
-I lean heavily on AI-assisted development to move quickly. That doesn't mean
-cutting corners — it means spending less time on boilerplate and more time on
-the details that actually matter: how something feels to use, how clean the
-code is underneath, and whether it's built to last, not just to demo.
-
-**Right now, I'm taking on freelance projects.** Early clients get my full
-attention, a fast turnaround, and a fair price while I build up a track record
-of shipped, real-world work.
-
-<br>
-
-## 🛠️ What I Build
-
-Here's what that actually looks like in practice:
-
-**🌐 Websites & MVPs**
-The first working version of a product, a landing page, or a portfolio site —
-built and shipped quickly rather than sitting in planning for weeks.
-
-**🧰 Internal Tools & Dashboards**
-Simple, purpose-built tools for tracking or visualizing your own data — instead
-of paying for bloated software with features you'll never use.
-
-**🤖 AI Automation & Agents**
-Scripts and workflows that take repetitive tasks — data entry, reporting,
-content generation, connecting one app to another — and hand them off to
-automation instead of a person doing them manually every day.
-
-**🎬 Scroll-Driven & Interactive Experiences**
-For projects where the experience itself matters, not just the function —
-motion-based interfaces, 3D elements, and scroll-synced animation that make
-a site feel considered rather than templated.
-
-<br>
-
-## 💻 Tech Stack
-
-A breakdown of what I actually build with, grouped by what each does:
-
-**Languages** — the core building blocks
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend** — what the user actually sees and interacts with
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-
-**Backend & Data** — how things work underneath
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Cloud & Deployment** — where things actually run and go live
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**AI & Automation** — the layer that removes manual work
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Zapier](https://img.shields.io/badge/Automation-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-
-**Tools & Workflow** — what I use day to day
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-<br>
-
-## ⚙️ How I Work
-
-- **I move fast, but not carelessly.** AI tools help me skip the slow, repetitive
-  parts of building — not the thinking or the quality checks.
-- **I communicate clearly.** You'll know what's happening and when, without
-  having to chase updates.
-- **I build for what you actually need,** not the most impressive-sounding
-  solution. Simple and working beats complex and fragile.
-
-<br>
-
-## 🚀 Featured Projects
-
-**[Portfolio Website](https://github.com/mohammedraza-tech/portfolio)**
-A scroll-driven 3D portfolio site — built with Next.js, React Three Fiber (Three.js), and GSAP ScrollTrigger for scroll-synced 3D animation, with Lenis for smooth scrolling.
-
-**[Project Name](link-here)**
-One-line description of what it does, the problem it solves, and the stack used.
-
-**[Project Name](link-here)**
-One-line description of what it does, the problem it solves, and the stack used.
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=mohammedraza-tech&theme=dark&hide_border=true" alt="Mohammed Raza's GitHub Streak" height="165"/>
-
-</div>
-
-## 🤝 Let's Work Together
-
-I'm currently open for freelance projects, and I usually reply within a day.
-If you've got something you want built — big or small — [let's talk](mailto:your@email.com).
-
-<div align="center">
-
-*Full-stack development · AI automation · Scroll-driven interfaces*
 
 ---
 
-⭐️ From [mohammedraza-tech](https://github.com/mohammedraza-tech)
+## 👋 About Me
+
+I'm **Mohammed Raza**, a self-taught frontend developer who builds clean, responsive interfaces for web and AI-powered products.
+
+I enjoy turning ideas into simple screens that people can use without instructions, from landing pages and dashboards to AI chat interfaces. I care about code that is readable, UI that feels fast, and software that solves a real problem.
+
+```js
+const mohammed = {
+  role: "Frontend Engineer",
+  focus: ["React", "Next.js", "Tailwind CSS", "AI Interfaces"],
+  learningNow: ["TypeScript", "Web Performance", "Accessibility"],
+  workingStyle: "Small commits, clear updates, ship early",
+  lookingFor: "Remote frontend roles and freelance projects",
+  contact: "mohammedrazatech@gmail.com",
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,html,css&theme=dark" alt="Core stack" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools" />
+
+**Currently Learning**
+
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="Learning" />
+
+</div>
+
+| Area | What I work with |
+|------|------------------|
+| **Frontend** | React, Next.js, JavaScript, HTML5, CSS3, Tailwind CSS |
+| **Data & APIs** | REST APIs, loading / error / empty states, LLM API integration |
+| **AI Interfaces** | Chat UIs, streaming responses, prompt-driven tools |
+| **Workflow** | Git & GitHub, clean commits, responsive design, Figma-to-UI |
+
+---
+
+## 🚀 Featured Projects
+
+> Replace each row with a real project. Remove any row you haven't built yet.
+
+| Project | What it does | Stack | Links |
+|---------|--------------|-------|-------|
+| **AI Chat Interface** | Chat app with streaming replies, message history, and a mobile-friendly layout | `Next.js` `Tailwind` `LLM API` | [Live](#) · [Code](#) |
+| **Analytics Dashboard** | Stat cards, charts, searchable table, and dark mode using sample data | `React` `Tailwind` `Recharts` | [Live](#) · [Code](#) |
+| **Business Landing Page** | Responsive landing page with services section and booking form | `HTML` `CSS` `JavaScript` | [Live](#) · [Code](#) |
+| **E-commerce Store (Frontend)** | Product list, filters, cart, and checkout flow | `React` `React Router` | [Live](#) · [Code](#) |
+| **Weather / Crypto Tracker** | Live API data with search, loading, and error handling | `React` `REST API` | [Live](#) · [Code](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+> Note: these cards look empty on a new account. They fill up as you commit. If they look weak at first, delete this section and add it back later.
+
+---
+
+## 🎯 What I'm Working Towards
+
+- [x] Build a portfolio of 4-5 real, deployed frontend projects
+- [ ] Learn TypeScript and use it in a full project
+- [ ] Run Lighthouse on every project and improve the scores
+- [ ] Learn accessibility basics: keyboard navigation, alt text, contrast
+- [ ] Land a remote frontend role or first paying freelance clients
+
+---
+
+## 🤝 Let's Work Together
+
+I'm open to **remote frontend roles**, **freelance projects**, and **collaborations** on AI-powered interfaces.
+
+**Good fits:** landing pages, dashboards, AI chat or tool interfaces, and turning Figma designs into responsive UI.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammedraza--tech-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedraza-tech/)
+[![Email](https://img.shields.io/badge/Email-mohammedrazatech%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedrazatech@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build things people can actually use."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=120&section=footer" alt="footer" />
 
 </div>
