@@ -3,7 +3,7 @@
   HOW TO USE:
   1. Create a PUBLIC repo named exactly like your GitHub username.
   2. Tick "Add a README file", then paste this whole file in.
-  3. Replace every YOUR_USERNAME and every [bracketed] item.
+  3. Replace every mohammedraza-tech and every [bracketed] item.
   4. Delete any section you can't back up with real work yet.
 ============================================================= -->
 
@@ -17,8 +17,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2563eb&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0f172a&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammedraza-tech&label=Profile%20Views&color=2563eb&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mohammedraza-tech?label=Followers&style=for-the-badge&color=0f172a&logo=github)
 ![Location](https://img.shields.io/badge/Based%20in-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Frontend%20Roles-2563eb?style=for-the-badge)
 
@@ -90,10 +90,10 @@ const mohammed = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraza-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedraza-tech&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
