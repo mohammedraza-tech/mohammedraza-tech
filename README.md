@@ -1,18 +1,16 @@
-<!-- Replace every YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL and project placeholder before publishing -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammed%20Raza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems.;Automating+the+Future.;Turning+complex+ideas+into+real-world+solutions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+Intelligent+Systems.;Automating+the+Future.;Turning+complex+ideas+into+real-world+solutions." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=302b63)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=302b63)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammedraza-tech&label=Profile%20Views&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/mohammedraza-tech?style=for-the-badge&logo=github&color=302b63)
+![Stars](https://img.shields.io/github/stars/mohammedraza-tech?style=for-the-badge&logo=github&color=302b63)
 
 </div>
 
@@ -31,7 +29,7 @@ I aim to bridge the gap between artificial intelligence and practical business a
 ```python
 class MohammedRaza:
     role = ["AI Engineer", "Agentic Systems Developer", "Full-Stack Developer"]
-    location = "India 🇮🇳"
+    location = "Bengaluru, India 🇮🇳"
     focus = ["LLMs", "RAG", "AI Agents", "Automation", "Full-Stack Web"]
     currently = "Building the next generation of AI-driven applications"
     open_to = ["Remote roles", "Freelance projects", "Collaborations"]
@@ -101,15 +99,17 @@ class MohammedRaza:
 
 ---
 
+<!--
 ## 📂 Featured Projects
 
 > Replace these with your real projects. Pin your best 6 repositories on your profile as well.
 
 | Project | Description | Stack |
 |:--|:--|:--|
-| 🔹 **[Project One](https://github.com/YOUR_GITHUB_USERNAME/project-one)** | One-line description of what it does and who it helps | `Python` `LangChain` `FastAPI` |
-| 🔹 **[Project Two](https://github.com/YOUR_GITHUB_USERNAME/project-two)** | One-line description of what it does and who it helps | `Next.js` `TypeScript` `Supabase` |
-| 🔹 **[Project Three](https://github.com/YOUR_GITHUB_USERNAME/project-three)** | One-line description of what it does and who it helps | `n8n` `Webhooks` `LLMs` |
+| 🔹 **[Project One](https://github.com/mohammedraza-tech/project-one)** | One-line description of what it does and who it helps | `Python` `LangChain` `FastAPI` |
+| 🔹 **[Project Two](https://github.com/mohammedraza-tech/project-two)** | One-line description of what it does and who it helps | `Next.js` `TypeScript` `Supabase` |
+| 🔹 **[Project Three](https://github.com/mohammedraza-tech/project-three)** | One-line description of what it does and who it helps | `n8n` `Webhooks` `LLMs` |
+-->
 
 ---
 
@@ -117,12 +117,12 @@ class MohammedRaza:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraza-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedraza-tech&theme=tokyonight&hide_border=true&background=0f0c29" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f0c29" width="100%" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedraza-tech&theme=tokyo-night&hide_border=true&bg_color=0f0c29" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -138,10 +138,8 @@ class MohammedRaza:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedraza-tech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedrazatech@gmail.com)
 
 **💬 Ask me about:** AI agents · RAG · LLM apps · n8n automation · Full-stack development
 
