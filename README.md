@@ -1,19 +1,18 @@
-# Mohammed Raza — GitHub Profile README
+<!-- Replace every YOUR_GITHUB_USERNAME, YOUR_LINKEDIN, YOUR_EMAIL and project placeholder before publishing -->
 
-````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e40af,100:06b6d4&height=230&section=header&text=Mohammed%20Raza&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=60" width="100%" alt="Mohammed Raza" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohammed%20Raza&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=850&lines=AI+Engineering+%26+Generative+AI;Building+Autonomous+AI+Agents;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;AI+Automation+%26+Workflow+Orchestration;Full-Stack+Development+%7C+Python+%7C+React" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems.;Automating+the+Future.;Turning+complex+ideas+into+real-world+solutions." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohammedraza-tech&label=Profile%20Views&color=0891b2&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mohammedraza-tech?label=Followers&style=for-the-badge&color=1e40af&logo=github)
-![Location](https://img.shields.io/badge/Based%20in-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=302b63)
+![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=302b63)
 
 </div>
 
@@ -21,189 +20,139 @@
 
 ## 👨‍💻 About Me
 
-I'm **Mohammed Raza**, an **AI Engineer | AI Automation & Agentic Systems | Full-Stack Developer**, focused on building intelligent systems and scalable digital solutions.
+I'm an **AI Engineer, AI Automation & Agentic Systems Developer, and Full-Stack Developer** passionate about building intelligent, scalable, and impactful digital solutions.
 
-My interests lie at the intersection of **Generative AI, Large Language Models, Agentic AI, Workflow Automation, and Full-Stack Engineering**.
+I focus on developing **AI-powered applications, autonomous AI agents, intelligent automation workflows, and modern full-stack platforms** that solve real-world problems and transform how businesses operate.
 
-I'm passionate about transforming complex problems into practical solutions through intelligent AI agents, automated workflows, and modern web applications.
+My interests span **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agent Orchestration, API Integrations, and End-to-End Web Development**.
 
-I focus on five core areas:
+I aim to bridge the gap between artificial intelligence and practical business applications by creating systems that are intelligent, efficient, reliable, and scalable.
 
-- 🧠 **AI Engineering & Generative AI**
-- 🤖 **Agentic AI & Multi-Agent Systems**
-- 📚 **LLMs & Retrieval-Augmented Generation (RAG)**
-- ⚡ **AI Automation & Workflow Orchestration**
-- 🌐 **Full-Stack Development (React, Next.js, Python)**
+```python
+class MohammedRaza:
+    role = ["AI Engineer", "Agentic Systems Developer", "Full-Stack Developer"]
+    location = "India 🇮🇳"
+    focus = ["LLMs", "RAG", "AI Agents", "Automation", "Full-Stack Web"]
+    currently = "Building the next generation of AI-driven applications"
+    open_to = ["Remote roles", "Freelance projects", "Collaborations"]
 
-My goal is to build AI-powered products that are intelligent, reliable, scalable, and useful in real-world environments.
-
----
-
-## ⚡ Developer Profile
-
-```javascript
-const mohammedRaza = {
-  title: "AI Engineer | AI Automation & Agentic Systems | Full-Stack Developer",
-
-  coreSkills: [
-    "AI Engineering & Generative AI",
-    "Agentic AI & Multi-Agent Systems",
-    "LLMs & Retrieval-Augmented Generation",
-    "AI Automation & Workflow Orchestration",
-    "Full-Stack Development"
-  ],
-
-  interests: [
-    "Autonomous AI Agents",
-    "Multi-Agent Architectures",
-    "LLM-Powered Applications",
-    "Intelligent Workflow Automation",
-    "Scalable Full-Stack Systems"
-  ],
-
-  mission: "Build intelligent systems that solve real-world problems",
-
-  location: "India",
-
-  portfolio: "https://meritn.site",
-
-  contact: "mohammedrazatech@gmail.com"
-};
-````
+    def mission(self):
+        return "Turning complex ideas into intelligent, real-world solutions."
+```
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## 🧠 Core Expertise
 
-\<div align="center">
-
-### 🧠 AI Engineering & Machine Learning
-
-
-
-
-\
-
-
-### 🤖 Agentic AI & LLM Frameworks
-
-
-
-
-\
-
-
-### ⚡ AI Automation & Integrations
-
-
-\
-
-
-### 🌐 Full-Stack Development
-
-\<img src="[https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,fastapi,postgres,html,css,tailwind&theme=dark](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,fastapi,postgres,html,css,tailwind\&theme=dark)" alt="Full Stack Technologies" />
-
-### 🧰 Development Tools
-
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma&theme=dark](https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma\&theme=dark)" alt="Development Tools" />
-
-\</div>
+| Domain | What I Work On |
+|:--|:--|
+| 🤖 **AI Engineering & Generative AI** | Python, LLMs, Generative AI, RAG, Prompt Engineering, Machine Learning |
+| 🕸️ **Agentic AI & Multi-Agent Systems** | AI Agents, Multi-Agent Workflows, LangChain, LangGraph |
+| ⚙️ **AI Automation & Orchestration** | n8n, Workflow Automation, Webhooks, API Integrations |
+| 🌐 **Full-Stack Development** | React.js, Next.js, TypeScript, JavaScript, Node.js, Tailwind CSS |
+| 🗄️ **Backend & Databases** | FastAPI, REST APIs, PostgreSQL, Supabase |
+| 🏗️ **AI Infrastructure** | Vector Databases, Embeddings, Docker, Git & GitHub |
 
 ---
 
-## 🎯 Areas of Expertise
+## 🛠️ Tech Stack
 
-| Domain                  | Focus Areas                                               |
-| ----------------------- | --------------------------------------------------------- |
-| 🧠 AI Engineering       | Generative AI, LLMs, Machine Learning, Prompt Engineering |
-| 🤖 Agentic Systems      | AI Agents, Multi-Agent Workflows, LangChain, LangGraph    |
-| 📚 Knowledge Systems    | RAG Pipelines, Embeddings, Vector Search                  |
-| ⚡ AI Automation         | n8n, Workflow Orchestration, API Integration              |
-| 🐍 Backend Engineering  | Python, FastAPI, Node.js, REST APIs                       |
-| 🌐 Frontend Engineering | React.js, Next.js, JavaScript, TypeScript                 |
-| 🗄️ Databases           | PostgreSQL, Database Integration                          |
-| 🛠️ Developer Tools     | Git, GitHub, Docker, Postman                              |
+### AI Engineering & Agentic Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-302b63?style=for-the-badge&logo=langchain&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0f766e?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-db2777?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-ea580c?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563eb?style=for-the-badge)
 
----
+### AI Automation & Integrations
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-4f46e5?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-0891b2?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API%20Integration-16a34a?style=for-the-badge)
 
-## 🚀 Featured Projects
+### Full-Stack Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-\<!-- Replace examples below with verified, completed projects. -->
-
-| Project                          | Description                                                                                       | Tech Stack                    |
-| -------------------------------- | ------------------------------------------------------------------------------------------------- | ----------------------------- |
-| 🤖 **AI Agent Assistant**        | Example: An AI-powered assistant with tool integration, contextual reasoning, and task execution. | Python, LangChain, LLM APIs   |
-| 🧠 **Multi-Agent AI System**     | Example: A coordinated agent system for research, analysis, and structured task execution.        | Python, LangGraph             |
-| 📚 **RAG Knowledge Assistant**   | Example: A document-aware assistant using semantic retrieval and LLM-generated answers.           | Python, RAG, Vector DB        |
-| ⚡ **AI Workflow Automation**     | Example: Automated business processes connecting APIs, AI models, and external services.          | n8n, Webhooks, REST APIs      |
-| 📊 **Analytics Dashboard**       | Interactive dashboard with stat cards, charts, searchable tables, and dark mode.                  | React, Tailwind CSS, Recharts |
-| 🌐 **Full-Stack AI Application** | Example: A modern web application integrating AI-powered features and backend services.           | Next.js, Python, FastAPI      |
-
-> Projects listed as examples should be replaced with actual repositories, demos, and verified implementations before publishing them as completed work.
-
----
-
-## 📊 GitHub Analytics
-
-\<div align="center">
-
-\<img height="180" src="[https://github-readme-stats.vercel.app/api?username=mohammedraza-tech&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=mohammedraza-tech\&show_icons=true\&theme=tokyonight\&hide_border=true\&include_all_commits=true)" alt="GitHub Stats" />
-
-\<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraza-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedraza-tech\&layout=compact\&theme=tokyonight\&hide_border=true\&langs_count=8)" alt="Top Languages" />
-
-\<br/>
-
-\<img src="[https://streak-stats.demolab.com?user=mohammedraza-tech&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=mohammedraza-tech\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" />
-
-\</div>
+### Backend, Databases & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🗺️ Engineering Roadmap
+## 🚀 What I Build
 
-My current areas of focus and development:
-
-- [ ] Build production-ready autonomous AI agents
-- [ ] Develop multi-agent orchestration workflows
-- [ ] Build and deploy RAG-powered applications
-- [ ] Create intelligent business automation systems
-- [ ] Develop scalable AI-powered SaaS applications
-- [ ] Strengthen full-stack architecture and backend engineering
-- [ ] Contribute to open-source AI projects
+- 🤖 **Autonomous AI Agents:** agents that plan, use tools, and complete multi-step tasks
+- 📚 **RAG Applications:** chat with your documents using embeddings and vector search
+- 🔁 **Intelligent Automations:** n8n workflows connecting APIs, webhooks, and LLMs
+- 🌐 **Full-Stack AI Platforms:** React / Next.js frontends with FastAPI / Node.js backends
+- 🧩 **Multi-Agent Systems:** orchestrated agents collaborating through LangGraph
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## 📂 Featured Projects
 
-I'm interested in connecting with developers, founders, engineers, and teams working on **Artificial Intelligence, Agentic Systems, Automation, and Full-Stack Applications**.
+> Replace these with your real projects. Pin your best 6 repositories on your profile as well.
 
-I'm particularly interested in opportunities involving:
-
-- Intelligent AI Agents & Multi-Agent Systems
-- Generative AI & LLM-Powered Applications
-- AI Automation & Business Workflow Integration
-- RAG-Based Knowledge Systems
-- Full-Stack AI Products & SaaS Development
-
-\<div align="center">
-
-
-
-
-
-
-
-\</div>
+| Project | Description | Stack |
+|:--|:--|:--|
+| 🔹 **[Project One](https://github.com/YOUR_GITHUB_USERNAME/project-one)** | One-line description of what it does and who it helps | `Python` `LangChain` `FastAPI` |
+| 🔹 **[Project Two](https://github.com/YOUR_GITHUB_USERNAME/project-two)** | One-line description of what it does and who it helps | `Next.js` `TypeScript` `Supabase` |
+| 🔹 **[Project Three](https://github.com/YOUR_GITHUB_USERNAME/project-three)** | One-line description of what it does and who it helps | `n8n` `Webhooks` `LLMs` |
 
 ---
 
-\<div align="center">
+## 📊 GitHub Stats
 
-### 💡 Engineering the Future with Intelligent Systems
+<div align="center">
 
-*Building AI that thinks, automation that works, and software that scales.*
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" alt="Top Languages" />
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e40af,100:020617&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:06b6d4,50:1e40af,100:020617\&height=120\&section=footer)" width="100%" alt="Footer" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f0c29" alt="GitHub Streak" />
 
-\</div>
-\`\`\`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0f0c29" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🎯 Mission
+
+> **To build the next generation of AI-driven applications and autonomous systems that make technology more powerful, accessible, and useful for businesses and individuals.**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
+
+**💬 Ask me about:** AI agents · RAG · LLM apps · n8n automation · Full-stack development
+
+**📫 Open to:** remote opportunities, freelance work, and collaborations
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+
+<div align="center">
+
+⭐ *Turning complex ideas into intelligent, real-world solutions.* ⭐
+
+</div>
